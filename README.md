@@ -6,4 +6,4 @@ A simple project using
 
 To host a public website 
 
-# http://d3q0zywyia9a8r.cloudfront.net/#
+# http://d3q0zywyia9a8r.cloudfront.net/
